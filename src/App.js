@@ -4,7 +4,7 @@ import { FaTimes, FaSyncAlt, FaPlay, FaStop } from "react-icons/fa";
 import './App.css';
 
 const numRows = 30;
-const numCols = 50;
+const numCols = 30;
 
 const operations = [
     [0, 1], [0, -1], [1, -1], [-1, 1], [1, 1], [-1, -1], [1, 0], [-1, 0]
